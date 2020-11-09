@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Vinh Giang",
+    "occupation": "Front-End Developer",
+    "description": "Have strong technical in Angular, Reactjs",
+    "image": "vinhgiang.jpg",
+    "bio": "My name is Vinh, I'm a Full Stack Developer (MEAN Stack). Versatile Front-end Developer with 4+ years of experience developing complex sites. Dynamic and detail-oriented Web Developer specializing in workflow logic development. Always comment on feature workflow and necessary designs. Worked closely with BA/PM/PO to get clearly requirements from customers. Passionate about building world-class web applications.",
+    "contactmessage": "Get in touch with me to receive further details, cooperate or anything else.",
+    "email": "ghvinh@gmail.com",
+    "phone": "+84 938 473 178",
+    "address": {
+      "street": "Hau Giang Street",
+      "city": "Ho Chi Minh",
+      "state": "Viet Nam",
+      "zip": "700000"
+    },
+    "website": "https://vinhgiang-portfolio.herokuapp.com/",
+    "resumedownload": "/VinhGiang_CV.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hoangvinhjv",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vinh-giang-b57491144/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/giangvinh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Angular 10, NgRx, RxJS, RESTful WebServices, React.js, Redux.js, Webpack, Hooks, JavaScript (ES6, TypeScript), Angular CDK drag & drop, CSS Grid Layout, CSS Flex, HTML5, CSS3, SASS, Bootstrap, Angular Material, NativeScript, Node.js, Express.js, Python 3.8, opencv-python, Yolov5x, Detection people, MSSQL Server, MySql, MongoDB, GraphQL, FireBase",
+    "education": [
+      {
+        "school": "VNUHCM - University of Science",
+        "degree": "Bachelor of Science (BSc)",
+        "graduated": "September 2015",
+        "description": "Graduated with a good grades"
+      }
+    ],
+    "work": [
+      {
+        "company": "PublishOne",
+        "title": "Frontend Web Developer",
+        "years": "Jun 2019 - Present",
+        "description": "Responsible for the entire front end of the product. Using some libraries like Angular 10, NgRx, RxJS, Angular CDK drag & drop, Angular Material, CSS Grid Layout, CSS Flex, Bootstrap... "
+      },
+      {
+        "company": "FUJINET SYSTEMS JSC",
+        "title": "Software Engineer",
+        "years": "Jun 2018 - Jun 2019",
+        "description": "Building CMS website for Japanese client include grant chart and orthers."
+      },
+      {
+        "company": "WebStrom",
+        "title": "Back-end Developer",
+        "years": "Feb 2018 - Aug 2018",
+        "description": "Applied knowledge of JavaScript and Object-Oriented Programming to create successful designs."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "SCSS",
+        "level": "80%"
+      },
+      {
+        "name": "NgRx",
+        "level": "100%"
+      },
+      {
+        "name": "ReduxJs",
+        "level": "60%"
+      },
+      {
+        "name": "RxJs",
+        "level": "90%"
+      },
+      {
+        "name": "Angular CDK",
+        "level": "55%"
+      },
+      {
+        "name": "Angular Material",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "RESTful WebServices",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

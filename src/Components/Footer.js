@@ -19,8 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; All credit goes to Vinh Giang - Copyright 2020 Vinh Giang</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyright 2020 Vinh Giang</li>
            </ul>
 
         </div>
